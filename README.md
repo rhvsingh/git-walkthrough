@@ -1,3 +1,1 @@
 # Scaler Workshop
-`:wq
-
